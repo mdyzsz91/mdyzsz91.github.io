@@ -1,6 +1,6 @@
 # Site settings
-title: ZhaoSong Blog
-SEOTitle: 赵松的博客 | ZhaoSong Blog
+title: Zhaos Blog
+SEOTitle: 赵松的博客 | Zhaos Blog
 header-img: img/home-bg.jpg
 email: 383927016@qq.com
 description: "测试的博客。"
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: zhaosongblog
+duoshuo_username: zhaosblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
